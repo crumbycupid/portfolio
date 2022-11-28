@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "I'm Devon.",
+      "description": "I'm Devon. I'm a US Navy Seabee who is a current software developer. I studied architecture, before joining the miliatry back in 2013. I decided to take up the challenge of software development. The thing about tech, that interest me, is that it is a part of our everyday lives. It can connect us all, and it can be used to change the world for better.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +11,11 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "LeeRoy Jenkins Travel Agency",
+        "startDate": "2022",
+        "description": "This was a group project for the final project of course 201 for code fellows. It was challenging in the sense that we were a group of four that had to come together to accomplish it, but ironically enough, thats the same thing that made it a seamsless experience.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/leeroy/p1.png"
         ],
         "url": "",
         "technologies": [
@@ -35,12 +34,11 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Odd-Duck",
+        "startDate": "2022",
+        "description": "This was a project where I was tasked with creating a mock interactive survey. It uses images that may be clicked on and that data is stored in local storage and can be rendered on a chart at the end of the voting period.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/odd-duck/p1.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,12 +53,11 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Chocolate Pizza",
+        "startDate": "2022",
+        "description": "This was a pair programming assingment, where I worked with one other member of the class. It was a pure CSS assignment, where we had to recreate a page with some given assets, using only CSS.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/chocolate-pizza/p1.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -81,37 +78,16 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Software Developer",
+        "years": "10.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript, CSS, HTML"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "HTML",
+          "CSS",
+          "JavaScript"
         ]
       }
     ]
