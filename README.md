@@ -1,3 +1,5 @@
 # Modify this portfolio
 
-Make it your own! 
+My updated portfolio site. 
+
+https://devonterryportfolio.netlify.app/
